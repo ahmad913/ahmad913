@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmad
 - 👀 I’m interested in cross platform development
-- 🌱 I’m currently learning Xamarin
+- 🌱 I’m currently learning Xamarin & Angular
 - 💞️ I’m looking to collaborate on any new idea to learn something new from it
 - 📫 How to reach me: ahmadagha913@gmail.com
 
